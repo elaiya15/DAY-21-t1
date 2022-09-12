@@ -1,0 +1,21 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.card-body {
+    margin: 10px;
+    margin-left: 15em;
+    border: solid 1px rgba(148, 41, 41, 0.781);
+    color: rgb(7, 7, 7);
+    background-color: bisque;
+    border-radius: 7pt;
+    flex-wrap: wrap;
+    width: 15rem;
+}
+
+.card-title {
+    border: solid 2px rgb(17, 144, 194);
+    border-radius: 7pt;
+}
